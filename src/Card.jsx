@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react'
 
 export default function Card() {
@@ -39,13 +38,13 @@ export default function Card() {
         className={`mt-4 text-2xl font-semibold text-gray-800 text-center  ${darkMode ? 'text-white' : 'text-gray-600'}`}
       >
         {' '}
-        Señor Calvito
+        JOSE GOMEZ VILLA
       </h2>
       <p
         className={`mt-2 text-gray-600 text-center ${darkMode ? 'text-white' : 'text-gray-600'}`}
       >
         {' '}
-        Desarrollador d Software Front-End apasionado por React y el diseño
+        Desarrollador de Software Front-End apasionado por React y el diseño
         UI/UX
       </p>
       <button
