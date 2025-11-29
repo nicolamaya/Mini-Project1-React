@@ -44,7 +44,7 @@ export default function Card() {
         className={`mt-2 text-gray-600 text-center ${darkMode ? 'text-white' : 'text-gray-600'}`}
       >
         {' '}
-        Desarrollador de Software Front-End apasionado por React y el diseño
+        Desarrollador de Software 1 Front-End apasionado por React y el diseño
         UI/UX
       </p>
       <button
